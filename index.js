@@ -6,5 +6,4 @@ console.log(age);
 }
 function demo() {
     console.log('ayush');
-    
 }
